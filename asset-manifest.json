@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/akbar-react-app/static/css/main.4ec0c001.css",
+    "main.js": "/akbar-react-app/static/js/main.20588857.js",
+    "static/js/787.28cb0dcd.chunk.js": "/akbar-react-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Destination5.png": "/akbar-react-app/static/media/Destination5.8db742a0db2114f7116a.png",
+    "static/media/Destination2.png": "/akbar-react-app/static/media/Destination2.64eec9804e3149d26787.png",
+    "static/media/Destination1.png": "/akbar-react-app/static/media/Destination1.b43b40ebcae365ec1bcf.png",
+    "static/media/Destination6.png": "/akbar-react-app/static/media/Destination6.b43b40ebcae365ec1bcf.png",
+    "static/media/Destination4.png": "/akbar-react-app/static/media/Destination4.c19a433ba2f75f2cd33b.png",
+    "static/media/Destination3.png": "/akbar-react-app/static/media/Destination3.b4028caa98dffd19d08e.png",
+    "static/media/slick.svg": "/akbar-react-app/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/akbar-react-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/akbar-react-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/akbar-react-app/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/akbar-react-app/index.html",
+    "main.4ec0c001.css.map": "/akbar-react-app/static/css/main.4ec0c001.css.map",
+    "main.20588857.js.map": "/akbar-react-app/static/js/main.20588857.js.map",
+    "787.28cb0dcd.chunk.js.map": "/akbar-react-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ec0c001.css",
+    "static/js/main.20588857.js"
+  ]
+}
